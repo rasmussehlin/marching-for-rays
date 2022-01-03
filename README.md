@@ -26,5 +26,8 @@ Let there be LIGHT! First shaded one.
 And the final animation, with lighting and shading. 
 ![animated with lighting](images/andra-animationen.gif)
 
+Here's a video of the program running in real time: [video](images/ScreenRecording2019-11-04at01.27.25.mov)
+
+---
 
 This is by no means a finished product, it's more like a fun work in progress. Teaching myself some graphics principals. 😎
