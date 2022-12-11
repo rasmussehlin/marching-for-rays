@@ -1,5 +1,5 @@
 # Marching for Rays
-![animated with lighting](images/andra-animationen.gif)
+![animated with lighting](images/andra-animationen.gif)  
 This is a ray marcher demo I made in 2019. I was inspired after taking the Linear Algebra course at university and wanted to try to implement a ray marcher with the knowledge I had in my head. And it kinda works! Yay! :) 
 
 It's not at the least optimized, but it serves as a pretty decent proof of concept.
